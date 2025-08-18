@@ -1,4 +1,7 @@
 fastapi
 pydantic
 huggingface_hub
-
+uvicorn[standard]
+python-dotenv
+requests
+aiofiles
