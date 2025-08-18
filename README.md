@@ -1,4 +1,5 @@
-The Hugging face Open Source Model used here is Wan-AI/Wan2.2-T2V-A14B
+The Hugging face Open Source Model used here is Wan-AI/Wan2.2-T2V-A14B.
+
 I used HF Token so the rate limit is 3 videos, not more than that 
 ---
 
