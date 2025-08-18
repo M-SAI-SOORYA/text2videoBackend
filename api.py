@@ -41,3 +41,7 @@ async def get_video_file(req: PromptRequest):
             status_code=500,
             content={"error": "Internal Server Error", "detail": str(e)},
         )
+        
+app.get("/")
+def welcome():
+    return {"message":"Welcome Brother!"}
