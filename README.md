@@ -210,6 +210,4 @@ This project is licensed under **MIT License**. See the LICENSE file for details
 
 ---
 
-If you want, I can **also add GitHub badges** for Python version, license, and Hugging Face API integration to make it look even more professional.
 
-Do you want me to add the badges?
